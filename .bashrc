@@ -98,22 +98,6 @@ alias hlp='less ~/.bashrc_help'
 # alias to show the date
 alias da='date "+%Y-%m-%d %A %T %Z"'
 
-# Alias's to modified commands
-alias cp='cp -i'
-alias mv='mv -i'
-alias rm='trash -v'
-alias mkdir='mkdir -p'
-alias ps='ps auxf'
-alias ping='ping -c 10'
-alias less='less -R'
-alias cls='clear'
-alias apt-get='sudo apt-get'
-alias multitail='multitail --no-repeat -c'
-alias freshclam='sudo freshclam'
-alias vi='nvim'
-alias svi='sudo vi'
-alias vis='nvim "+set si"'
-
 # Change directory aliases
 alias home='cd ~'
 alias cd..='cd ..'
