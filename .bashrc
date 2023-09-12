@@ -83,4 +83,4 @@ else
 	echo "can't find the autojump script"
 fi
 
-source .aliases.sh
+source $HOME/.aliases.sh
