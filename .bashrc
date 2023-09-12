@@ -82,3 +82,5 @@ elif [ -f "/usr/share/autojump/autojump.bash" ]; then
 else
 	echo "can't find the autojump script"
 fi
+
+source .aliases.sh
